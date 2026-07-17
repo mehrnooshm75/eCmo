@@ -2,3 +2,6 @@ streamlit
 plotly
 numpy
 scipy
+arabic_reshaper
+python-bidi
+streamlit
